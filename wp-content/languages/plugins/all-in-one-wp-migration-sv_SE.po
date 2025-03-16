@@ -1,0 +1,658 @@
+# Translation of Plugins - All-in-One WP Migration and Backup - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - All-in-One WP Migration and Backup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-01-25 17:00:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - All-in-One WP Migration and Backup - Stable (latest release)\n"
+
+#: lib/view/export/find-replace.php:35 lib/view/export/find-replace.php:44
+msgid "Search for"
+msgstr "Sök efter"
+
+#: lib/view/export/export-buttons.php:35
+msgid "Export Site To"
+msgstr "Exportera webbplats till"
+
+#: lib/view/export/advanced-settings.php:115
+msgid "Exclude database (sql)"
+msgstr "Exkludera databas (SQL)"
+
+#: lib/view/export/advanced-settings.php:104
+msgid "Exclude plugins (files)"
+msgstr "Exkludera tillägg (filer)"
+
+#: lib/view/export/advanced-settings.php:88
+msgid "Exclude themes (files)"
+msgstr "Exkludera teman (filer)"
+
+#: lib/view/export/advanced-settings.php:82
+msgid "Exclude media library (files)"
+msgstr "Exkludera mediabibliotek (filer)"
+
+#: lib/view/export/advanced-settings.php:76
+msgid "Exclude post revisions"
+msgstr "Exkludera inläggsversioner"
+
+#: lib/view/export/advanced-settings.php:70
+msgid "Exclude spam comments"
+msgstr "Exkludera skräppostkommentarer"
+
+#: lib/view/common/leave-feedback.php:57
+msgid "Describe your issue or feedback..."
+msgstr "Beskriv ditt problem eller feedback …"
+
+#: lib/view/common/leave-feedback.php:54
+msgid "Email address"
+msgstr "E-postadress"
+
+#: lib/view/common/leave-feedback.php:47
+msgid "I need help"
+msgstr "Jag behöver hjälp"
+
+#: lib/view/common/leave-feedback.php:38
+msgid "I have an idea"
+msgstr "Jag har en idé"
+
+#: lib/view/backups/backups-list.php:88
+msgid "Over 2GB"
+msgstr "Över 2 GB"
+
+#: lib/model/import/class-ai1wm-import-users.php:38
+msgid "Preparing WordPress users..."
+msgstr "Förbereder WordPress-användare …"
+
+#: lib/model/import/class-ai1wm-import-options.php:34
+msgid "Preparing WordPress options..."
+msgstr "Förbereder WordPress-alternativ …"
+
+#: lib/model/import/class-ai1wm-import-database.php:985
+msgid "Database restored."
+msgstr "Databas återställd."
+
+#: lib/model/export/class-ai1wm-export-database.php:159
+msgid "Database exported."
+msgstr "Databas exporterad."
+
+#: lib/model/export/class-ai1wm-export-archive.php:44
+msgid "Export file created."
+msgstr "Exportfil skapad."
+
+#: lib/model/export/class-ai1wm-export-archive.php:37
+msgid "Creating export file..."
+msgstr "Skapar exportfil …"
+
+#: lib/model/class-ai1wm-feedback.php:56
+msgid "Please describe your issue or feedback."
+msgstr "Beskriv ditt problem eller feedback."
+
+#: lib/model/class-ai1wm-feedback.php:46
+msgid "Please enter a valid email address."
+msgstr "Ange en giltig e-postadress."
+
+#: lib/controller/class-ai1wm-main-controller.php:1135
+msgid "Could not start the import. Please refresh and try again"
+msgstr "Kunde inte starta importen. Uppdatera och försök igen"
+
+#: lib/controller/class-ai1wm-main-controller.php:1127
+msgid "Could not run the export. Please refresh and try again"
+msgstr "Kunde inte köra exporten. Uppdatera och försök igen"
+
+#: lib/controller/class-ai1wm-main-controller.php:1126
+msgid "Could not start the export. Please refresh and try again"
+msgstr "Kunde inte starta exporten. Uppdatera och försök igen"
+
+#: lib/controller/class-ai1wm-main-controller.php:968
+msgid "Upload failed"
+msgstr "Uppladdning misslyckades"
+
+#: lib/controller/class-ai1wm-main-controller.php:951
+#: lib/controller/class-ai1wm-main-controller.php:1139
+msgid "Stopping the import, please wait..."
+msgstr "Stoppar importen, vänta …"
+
+#: lib/controller/class-ai1wm-main-controller.php:820
+msgid "Could not download file"
+msgstr "Kunde inte ladda ner fil"
+
+#: lib/controller/class-ai1wm-import-controller.php:105
+#: lib/controller/class-ai1wm-import-controller.php:106
+#: lib/controller/class-ai1wm-main-controller.php:945
+#: lib/controller/class-ai1wm-main-controller.php:1134
+msgid "Import failed"
+msgstr "Import misslyckades"
+
+#: lib/controller/class-ai1wm-import-controller.php:102
+msgid "Import failed: %s"
+msgstr "Import misslyckades: %s"
+
+#: lib/controller/class-ai1wm-export-controller.php:94
+#: lib/controller/class-ai1wm-export-controller.php:95
+#: lib/controller/class-ai1wm-main-controller.php:810
+#: lib/controller/class-ai1wm-main-controller.php:1125
+msgid "Export failed"
+msgstr "Export misslyckades"
+
+#: lib/controller/class-ai1wm-export-controller.php:91
+msgid "Export failed: %s"
+msgstr "Export misslyckades: %s"
+
+#: functions.php:2129
+msgid "Could not decrypt data. The process cannot continue."
+msgstr "Kunde inte dekryptera data. Processen kan inte fortsätta."
+
+#: functions.php:2092
+msgid "Could not encrypt data. The process cannot continue."
+msgstr "Kunde inte kryptera data. Processen kan inte fortsätta."
+
+#: lib/view/reset/index.php:39
+msgid "Upgrade to Premium "
+msgstr "Uppgradera till premium "
+
+#: lib/view/reset/index.php:34
+msgid "Star"
+msgstr "Stjärna"
+
+#: lib/view/main/premium-badge.php:31
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/view/schedules/index.php:75 lib/view/schedules/index.php:80
+msgid "Retention settings"
+msgstr "Inställningar för bevarande"
+
+#: lib/view/schedules/index.php:62 lib/view/schedules/index.php:67
+msgid "Notification settings"
+msgstr "Aviseringsinställningar"
+
+#: lib/view/schedules/index.php:54 lib/view/schedules/index.php:67
+#: lib/view/schedules/index.php:80 lib/view/schedules/index.php:93
+#: lib/view/schedules/index.php:106 lib/view/schedules/index.php:119
+#: lib/view/schedules/index.php:132 lib/view/schedules/index.php:145
+#: lib/view/schedules/index.php:158
+msgid "Enable this feature"
+msgstr "Aktivera denna funktion"
+
+#: lib/view/schedules/index.php:49
+msgid "Backup scheduler"
+msgstr "Schemaläggare för säkerhetskopiering"
+
+#: lib/view/schedules/index.php:43 lib/view/schedules/index.php:153
+#: lib/view/schedules/index.php:158
+msgid "Multisite Schedules"
+msgstr "Multisite-scheman"
+
+#: lib/view/schedules/index.php:42 lib/view/schedules/index.php:140
+#: lib/view/schedules/index.php:145
+msgid "More Storage Providers"
+msgstr "Fler leverantörer av lagringstjänster"
+
+#: lib/view/schedules/index.php:41 lib/view/schedules/index.php:127
+#: lib/view/schedules/index.php:132
+msgid "FTP Storage"
+msgstr "FTP-lagring"
+
+#: lib/view/schedules/index.php:40 lib/view/schedules/index.php:114
+#: lib/view/schedules/index.php:119
+msgid "OneDrive Storage"
+msgstr "Lagring på OneDrive"
+
+#: lib/view/schedules/index.php:39 lib/view/schedules/index.php:101
+#: lib/view/schedules/index.php:106
+msgid "Dropbox Storage"
+msgstr "Lagring på Dropbox"
+
+#: lib/view/schedules/index.php:38 lib/view/schedules/index.php:88
+#: lib/view/schedules/index.php:93
+msgid "Google Drive Storage"
+msgstr "Lagring på Google Drive"
+
+#: lib/view/schedules/index.php:37
+msgid "Retention Settings"
+msgstr "Inställningar för bevarande"
+
+#: lib/view/schedules/index.php:36
+msgid "Notification Settings"
+msgstr "Aviseringsinställningar"
+
+#: lib/view/schedules/index.php:35 lib/view/schedules/index.php:54
+msgid "Backup Scheduler"
+msgstr "Schemaläggare för säkerhetskopiering"
+
+#: lib/controller/class-ai1wm-main-controller.php:687
+#: lib/controller/class-ai1wm-main-controller.php:688
+msgid "Schedules"
+msgstr "Scheman"
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:59
+msgid "Backup is encrypted. Please provide decryption password: "
+msgstr "Säkerhetskopia är krypterad. Ange ett lösenord för avkryptering: "
+
+#: lib/view/export/advanced-settings.php:63
+msgid "Password-protect and encrypt backups"
+msgstr "Lösenordsskyddade och krypterade säkerhetskopior"
+
+#: lib/view/export/advanced-settings.php:50
+msgid "A password is required"
+msgstr "Ett lösenord är obligatoriskt"
+
+#: lib/controller/class-ai1wm-main-controller.php:965
+#: lib/controller/class-ai1wm-main-controller.php:1171
+#: lib/view/export/advanced-settings.php:55
+msgid "The passwords do not match"
+msgstr "Lösenorden matchar inte"
+
+#: lib/controller/class-ai1wm-main-controller.php:964
+#: lib/controller/class-ai1wm-main-controller.php:1170
+#: lib/view/export/advanced-settings.php:53
+msgid "Repeat the password"
+msgstr "Upprepa lösenordet"
+
+#: lib/controller/class-ai1wm-main-controller.php:962
+#: lib/controller/class-ai1wm-main-controller.php:1168
+msgid "Submit"
+msgstr "Skicka"
+
+#: lib/controller/class-ai1wm-main-controller.php:961
+msgid "Please enter a password to import the file"
+msgstr "Ange ett lösenord för att importera filen"
+
+#: lib/controller/class-ai1wm-main-controller.php:960
+#: lib/controller/class-ai1wm-main-controller.php:1166
+msgid "The backup is encrypted"
+msgstr "Säkerhetskopian är krypterad"
+
+#: lib/view/backups/backups-list.php:129
+msgid "List"
+msgstr "Lista"
+
+#: lib/view/backups/backups-list.php:127
+msgid "Show backup content"
+msgstr "Visa säkerhetskopierat innehåll"
+
+#: lib/view/backups/backups-list.php:120
+msgid "Downloading is not possible because backups directory is not accessible."
+msgstr "Nedladdning är inte möjligt eftersom säkerhetskopieringskatalogen inte är tillgänglig."
+
+#: lib/controller/class-ai1wm-main-controller.php:1165
+msgid "Reading..."
+msgstr "Läser …"
+
+#: lib/controller/class-ai1wm-main-controller.php:1164
+msgid "List the content of the backup"
+msgstr "Lista innehållet i säkerhetskopian"
+
+#: lib/controller/class-ai1wm-main-controller.php:1161
+msgid "Error"
+msgstr "Fel"
+
+#: lib/view/backups/backups-list.php:93
+msgid "More"
+msgstr "Mer"
+
+#: lib/controller/class-ai1wm-main-controller.php:819
+#: lib/controller/class-ai1wm-main-controller.php:1160
+msgid "You have %d backups"
+msgstr "Du har %d säkerhetskopior"
+
+#: lib/controller/class-ai1wm-main-controller.php:818
+#: lib/controller/class-ai1wm-main-controller.php:1159
+#: lib/view/main/backups.php:31
+msgid "You have %d backup"
+msgid_plural "You have %d backups"
+msgstr[0] "Du har %d säkerhetskopia"
+msgstr[1] "Du har %d säkerhetskopior"
+
+#: lib/view/updater/error.php:31
+msgid "Error: %s"
+msgstr "Fel: %s"
+
+#: lib/model/export/class-ai1wm-export-themes.php:80
+#: lib/model/export/class-ai1wm-export-themes.php:119
+msgid "Archiving %d theme files...<br />%d%% complete"
+msgstr "Arkiverar %d temafiler …<br />%d %% klart"
+
+#: lib/view/main/contact-support.php:31
+msgid "Contact Support"
+msgstr "Kontakta support"
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:36
+msgid "Retrieving WordPress permalinks settings..."
+msgstr "Hämtar WordPress permalänksinställningar …"
+
+#: lib/view/main/translate.php:31
+msgid "Translate"
+msgstr "Översätt"
+
+#: lib/model/export/class-ai1wm-export-media.php:80
+#: lib/model/export/class-ai1wm-export-media.php:119
+msgid "Archiving %d media files...<br />%d%% complete"
+msgstr "Arkiverar %d mediafiler …<br />%d%% klart"
+
+#: lib/model/export/class-ai1wm-export-content.php:80
+#: lib/model/export/class-ai1wm-export-content.php:119
+msgid "Archiving %d content files...<br />%d%% complete"
+msgstr "Arkiverar %d innehållsfiler …<br />%d %% klart"
+
+#: lib/controller/class-ai1wm-main-controller.php:956
+#: lib/controller/class-ai1wm-main-controller.php:1144
+msgid "I have enough disk space"
+msgstr "Jag har tillräckligt med diskutrymme"
+
+#: lib/view/backups/backups-list.php:46 lib/view/backups/index.php:49
+msgid "Refreshing backup list..."
+msgstr "Uppdaterar listan över säkerhetskopior …"
+
+#: lib/view/import/button-file.php:31
+msgid "To choose a file please go inside the link and click on the browse button."
+msgstr "Välj en fil genom att följa länken och klicka på bläddringsknappen."
+
+#: lib/controller/class-ai1wm-main-controller.php:953
+#: lib/controller/class-ai1wm-main-controller.php:1140
+msgid "Finish"
+msgstr "Slutför"
+
+#: lib/model/export/class-ai1wm-export-download.php:65
+msgid "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Download %s</span><em>Size: %s</em></a>"
+msgstr "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Ladda ner %s</span><em>Storlek: %s</em></a>"
+
+#: lib/view/import/import-buttons.php:39
+msgid "Drag & Drop a backup to import it"
+msgstr "Dra och släpp en säkerhetskopia att importera den"
+
+#: lib/model/export/class-ai1wm-export-database.php:77
+#: lib/model/export/class-ai1wm-export-database.php:185
+msgid "Exporting database...<br />%d%% complete<br />%s records saved"
+msgstr "Exporterar databasen …<br />%d %% klart<br />%s poster har sparats"
+
+#: lib/controller/class-ai1wm-main-controller.php:275
+msgid "All-in-One WP Migration Command"
+msgstr "Kommandon för All-in-One WP Migration"
+
+#: lib/controller/class-ai1wm-main-controller.php:809
+#: lib/controller/class-ai1wm-main-controller.php:1124
+#: lib/model/export/class-ai1wm-export-init.php:43
+msgid "Preparing to export..."
+msgstr "Förbereder för export …"
+
+#: lib/view/backups/backups-list.php:82
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: lib/controller/class-ai1wm-main-controller.php:958
+#: lib/controller/class-ai1wm-main-controller.php:1146
+msgid "Please do not close this browser window or your import will fail"
+msgstr "Stäng inte detta webbläsarfönster annars kommer din import misslyckas"
+
+#: lib/controller/class-ai1wm-main-controller.php:957
+#: lib/controller/class-ai1wm-main-controller.php:1145
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: lib/controller/class-ai1wm-main-controller.php:955
+#: lib/controller/class-ai1wm-main-controller.php:1143
+msgid "Proceed"
+msgstr "Fortsätt"
+
+#: lib/controller/class-ai1wm-main-controller.php:954
+#: lib/controller/class-ai1wm-main-controller.php:1142
+msgid "Stop import"
+msgstr "Stoppa import"
+
+#: lib/controller/class-ai1wm-main-controller.php:816
+#: lib/controller/class-ai1wm-main-controller.php:1131
+msgid "Stop export"
+msgstr "Stoppa export"
+
+#: lib/controller/class-ai1wm-main-controller.php:815
+#: lib/controller/class-ai1wm-main-controller.php:952
+#: lib/controller/class-ai1wm-main-controller.php:1130
+#: lib/controller/class-ai1wm-main-controller.php:1141
+msgid "Close"
+msgstr "Stäng"
+
+#: lib/model/export/class-ai1wm-export-config.php:36
+msgid "Preparing configuration..."
+msgstr "Förbereder konfiguration …"
+
+#: lib/model/import/class-ai1wm-import-validate.php:81
+#: lib/model/import/class-ai1wm-import-validate.php:144
+msgid "Unpacking archive...<br />%d%% complete"
+msgstr "Packar upp arkiv&hellip;<br />%d&nbsp;%% färdigt"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:66
+#: lib/model/export/class-ai1wm-export-database-file.php:101
+msgid "Archiving database...<br />%d%% complete"
+msgstr "Arkiverar databas&hellip;<br />%d&nbsp;%% klart"
+
+#: lib/model/import/class-ai1wm-import-database.php:78
+#: lib/model/import/class-ai1wm-import-database.php:1005
+msgid "Restoring database...<br />%d%% complete"
+msgstr "Återställer databas&hellip;<br />%d&nbsp;%% färdigt"
+
+#: lib/controller/class-ai1wm-main-controller.php:944
+#: lib/controller/class-ai1wm-main-controller.php:1133
+msgid "Preparing to import..."
+msgstr "Förbereder att importera …"
+
+#: lib/controller/class-ai1wm-main-controller.php:1401
+msgid "Monthly"
+msgstr "Månadsvis"
+
+#: lib/controller/class-ai1wm-main-controller.php:1397
+msgid "Weekly"
+msgstr "Veckovis"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:35
+msgid "Activating mu-plugins..."
+msgstr "Aktiverar permanentaktiverade tillägg …"
+
+#: lib/view/export/advanced-settings.php:121
+msgid "Do <strong>not</strong> replace email domain (sql)"
+msgstr "Ersätt <strong>inte</strong> e-postdomän (sql)"
+
+#: lib/model/import/class-ai1wm-import-blogs.php:35
+msgid "Preparing blogs..."
+msgstr "Förbereder bloggar …"
+
+#: lib/view/updater/modal.php:55
+msgid "There is an update available. To update, you must enter your"
+msgstr "Det finns en uppdatering tillgänglig. För att uppdatera måste du ange din"
+
+#: lib/view/updater/modal.php:48
+msgid "Discard"
+msgstr "Förkasta"
+
+#: lib/view/updater/modal.php:46
+msgid "Save"
+msgstr "Spara"
+
+#: lib/view/updater/modal.php:42
+msgid "here"
+msgstr "﻿här"
+
+#: lib/view/updater/modal.php:41
+msgid "Don't have a Purchase ID? You can find your Purchase ID"
+msgstr "Har du inte ett inköps-ID? Du kan hitta ditt inköps-ID"
+
+#: lib/view/updater/modal.php:37 lib/view/updater/modal.php:56
+msgid "Purchase ID"
+msgstr "Inköps-ID"
+
+#: lib/view/updater/modal.php:34
+msgid "To update your plugin/extension to the latest version, please fill your Purchase ID below."
+msgstr "Om du vill uppdatera ditt tillägg till den senaste versionen, ange ditt inköps-ID nedan."
+
+#: lib/view/updater/modal.php:33
+msgid "Enter your Purchase ID"
+msgstr "Ange ditt inköps-ID"
+
+#: lib/controller/class-ai1wm-main-controller.php:1290
+#: lib/view/updater/check.php:31
+msgid "Check for updates"
+msgstr "Sök efter uppdateringar"
+
+#. Author of the plugin
+#: all-in-one-wp-migration.php
+msgid "ServMask"
+msgstr "ServMask"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: all-in-one-wp-migration.php
+msgid "https://servmask.com/"
+msgstr "https://servmask.com/"
+
+#. Plugin Name of the plugin
+#: all-in-one-wp-migration.php
+msgid "All-in-One WP Migration"
+msgstr "All-in-One WP Migration"
+
+#: lib/view/import/index.php:37
+msgid "Import Site"
+msgstr "Importera webbplats"
+
+#: lib/view/import/import-buttons.php:43
+msgid "Import From"
+msgstr "Importera från"
+
+#: lib/view/export/index.php:37
+msgid "Export Site"
+msgstr "Exportera webbplats"
+
+#: lib/view/export/help-section.php:50
+msgid "Once the file is successfully downloaded on your computer, you can import it to any of your WordPress sites."
+msgstr "När filen väl har laddats ner på din dator kan du importera den till någon av dina WordPress-webbplatser."
+
+#: lib/view/export/help-section.php:46
+msgid "Press \"Export\" button and the site archive file will pop up in your browser."
+msgstr "Tryck på knappen ”Exportera” så dyker webbplatsens arkivfil upp i din webbläsare."
+
+#: lib/view/export/help-section.php:42
+msgid "In the advanced settings section you can configure more precisely the way of exporting."
+msgstr "I sektionen avancerade inställningar kan du exakt konfigurera sättet att exportera."
+
+#: lib/view/export/find-replace.php:52
+msgid "Add"
+msgstr "Lägg till"
+
+#: lib/view/export/find-replace.php:39
+msgid "in the database"
+msgstr "i databasen"
+
+#: lib/view/export/find-replace.php:38
+msgid "<another-text>"
+msgstr "<another-text>"
+
+#: lib/view/export/find-replace.php:37 lib/view/export/find-replace.php:45
+msgid "Replace with"
+msgstr "Ersätt med"
+
+#: lib/view/export/find-replace.php:36
+msgid "<text>"
+msgstr "<text>"
+
+#: lib/view/export/button-file.php:31 lib/view/import/button-file.php:32
+msgid "File"
+msgstr "Fil"
+
+#: lib/view/export/advanced-settings.php:36
+msgid "(click to expand)"
+msgstr "(klicka för att expandera)"
+
+#: lib/view/export/advanced-settings.php:35
+msgid "Advanced options"
+msgstr "Avancerade alternativ"
+
+#: lib/view/common/share-buttons.php:63
+msgid "Tweet"
+msgstr "Twittra"
+
+#: lib/view/common/leave-feedback.php:67
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: lib/view/common/leave-feedback.php:70
+msgid "Send"
+msgstr "Skicka"
+
+#: lib/controller/class-ai1wm-main-controller.php:963
+#: lib/controller/class-ai1wm-main-controller.php:1169
+#: lib/view/export/advanced-settings.php:48
+msgid "Enter a password"
+msgstr "Ange ett lösenord"
+
+#: lib/view/common/sidebar-right.php:39
+msgid "Leave Feedback"
+msgstr "Lämna feedback"
+
+#: lib/view/backups/index.php:57
+msgid "Create backup"
+msgstr "Skapa säkerhetskopia"
+
+#: lib/view/backups/backups-list.php:134 lib/view/backups/backups-list.php:136
+msgid "Delete"
+msgstr "Ta bort"
+
+#: lib/view/backups/backups-list.php:99 lib/view/backups/backups-list.php:101
+msgid "Restore"
+msgstr "Återställ"
+
+#: lib/view/backups/backups-list.php:107 lib/view/backups/backups-list.php:109
+#: lib/view/backups/backups-list.php:112 lib/view/backups/backups-list.php:114
+#: lib/view/backups/backups-list.php:122
+msgid "Download"
+msgstr "Ladda ner"
+
+#: lib/view/backups/backups-list.php:38
+msgid "Size"
+msgstr "Storlek"
+
+#: lib/view/backups/backups-list.php:37
+msgid "Date"
+msgstr "Datum"
+
+#: lib/view/backups/backups-list.php:36
+msgid "Name"
+msgstr "Namn"
+
+#: lib/model/import/class-ai1wm-import-done.php:363
+#: lib/model/import/class-ai1wm-import-done.php:365
+#: lib/model/import/class-ai1wm-import-done.php:367
+msgid "Your site has been imported successfully!"
+msgstr "Din webbplats har importerats utan problem!"
+
+#: lib/model/import/class-ai1wm-import-content.php:83
+#: lib/model/import/class-ai1wm-import-content.php:206
+msgid "Restoring %d files...<br />%d%% complete"
+msgstr "Återställer %d filer&hellip;<br />%d %% klart"
+
+#: lib/model/export/class-ai1wm-export-plugins.php:80
+#: lib/model/export/class-ai1wm-export-plugins.php:119
+msgid "Archiving %d plugin files...<br />%d%% complete"
+msgstr "Arkiverar %d tilläggsfiler …<br />%d%% klart"
+
+#: lib/controller/class-ai1wm-main-controller.php:667
+#: lib/controller/class-ai1wm-main-controller.php:668
+#: lib/view/backups/index.php:37
+msgid "Backups"
+msgstr "Säkerhetskopior"
+
+#: lib/controller/class-ai1wm-main-controller.php:657
+#: lib/controller/class-ai1wm-main-controller.php:658
+msgid "Import"
+msgstr "Importera"
+
+#: lib/controller/class-ai1wm-main-controller.php:647
+#: lib/controller/class-ai1wm-main-controller.php:648
+msgid "Export"
+msgstr "Exportera"
+
+#: lib/view/main/multisite-notice.php:41
+msgid "Get multisite"
+msgstr "Skaffa multisite"

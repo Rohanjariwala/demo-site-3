@@ -1,0 +1,2190 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-20 11:07:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/tab-dashboard.php:218
+msgid "Deny/Allow countries"
+msgstr "Neka/tillåt länder"
+
+#: views/tab-dashboard.php:193
+msgid "Enable Email Notifications"
+msgstr "Aktivera e-postaviseringar"
+
+#: views/app-widgets/login-attempts.php:52
+msgid "Role"
+msgstr "Roll"
+
+#: views/app-widgets/login-attempts.php:28
+msgid " View more"
+msgstr " visa mer"
+
+#: views/app-widgets/login-attempts.php:24
+#: views/app-widgets/login-attempts.php:38
+msgid "Successful Login Attempts"
+msgstr "Lyckade inloggningsförsök"
+
+#: resources/continent.php:9
+msgid "South America"
+msgstr "Sydamerika"
+
+#: resources/continent.php:8
+msgid "Oceania"
+msgstr "Oceanien"
+
+#: resources/continent.php:7
+msgid "North America"
+msgstr "Nordamerika"
+
+#: resources/continent.php:6
+msgid "Europe"
+msgstr "Europa"
+
+#: resources/continent.php:5
+msgid "Africa"
+msgstr "Afrika"
+
+#: resources/continent.php:3
+msgid "Asia"
+msgstr "Asien"
+
+#: core/Ajax.php:669
+msgid "Connection Type: "
+msgstr "Anslutningstyp: "
+
+#: core/Ajax.php:662
+msgid "Internet Provider: "
+msgstr "Internetleverantör: "
+
+#: core/Ajax.php:633
+msgid "Timezone: "
+msgstr "Tidszon: "
+
+#: core/Ajax.php:614
+msgid "Latitude, Longitude: "
+msgstr "Latitud, longitud: "
+
+#: core/Ajax.php:608
+msgid "Zipcode: "
+msgstr "Postnummer: "
+
+#: core/Ajax.php:602
+msgid "City: "
+msgstr "Ort: "
+
+#: core/Ajax.php:596
+msgid "District: "
+msgstr "Distrikt: "
+
+#: core/Ajax.php:590
+msgid "State/Province: "
+msgstr "Delstat/provins: "
+
+#: core/Ajax.php:584
+msgid "Country: "
+msgstr "Land: "
+
+#: core/Ajax.php:575
+msgid "Continent: "
+msgstr "Kontinent: "
+
+#: resources/countries.php:253
+msgid "South Sudan"
+msgstr "Sydsudan"
+
+#: resources/countries.php:252
+msgid "Bonaire, Sint Eustatius, and Saba"
+msgstr "Bonaire, Saint Eustatius och Saba"
+
+#: resources/countries.php:251
+msgid "Curaçao"
+msgstr "Curaçao"
+
+#: resources/countries.php:250
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+#: resources/continent.php:4 resources/countries.php:249
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: resources/countries.php:248
+msgid "Serbia"
+msgstr "Serbien"
+
+#: resources/countries.php:247
+msgid "Palestine"
+msgstr "Palestina"
+
+#: resources/countries.php:246
+msgid "United States"
+msgstr "USA"
+
+#: resources/countries.php:245
+msgid "Canada"
+msgstr "Kanada"
+
+#: resources/countries.php:244
+msgid "American Samoa"
+msgstr "Amerikanska Samoa"
+
+#: resources/countries.php:241
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: resources/countries.php:240
+msgid "Guam"
+msgstr "Guam"
+
+#: resources/countries.php:238
+msgid "Niue"
+msgstr "Niue"
+
+#: resources/countries.php:237
+msgid "Samoa"
+msgstr "Samoa"
+
+#: resources/countries.php:236
+msgid "Wallis and Futuna"
+msgstr "Wallis and Futuna"
+
+#: resources/countries.php:235
+msgid "Tonga"
+msgstr "Tonga"
+
+#: resources/countries.php:234
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: resources/countries.php:233
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: resources/countries.php:232
+msgid "Pitcairn Islands"
+msgstr "Pitcairnöarna"
+
+#: resources/countries.php:231
+msgid "French Polynesia"
+msgstr "Franska Polynesien"
+
+#: resources/countries.php:230
+msgid "Mexico"
+msgstr "Mexico"
+
+#: resources/countries.php:229
+msgid "Peru"
+msgstr "Peru"
+
+#: resources/countries.php:228
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: resources/countries.php:227
+msgid "Chile"
+msgstr "Chile"
+
+#: resources/countries.php:226
+msgid "Argentina"
+msgstr "Argentina"
+
+#: resources/countries.php:225
+msgid "Haiti"
+msgstr "Haiti"
+
+#: resources/countries.php:224
+msgid "Panama"
+msgstr "Panama"
+
+#: resources/countries.php:223
+msgid "Colombia"
+msgstr "Colombia"
+
+#: resources/countries.php:222
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: resources/countries.php:221
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: resources/countries.php:220
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: resources/countries.php:219
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: resources/countries.php:218
+msgid "Honduras"
+msgstr "Honduras"
+
+#: resources/countries.php:217
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: resources/countries.php:216
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: resources/countries.php:215
+msgid "Belize"
+msgstr "Belize"
+
+#: resources/countries.php:214
+msgid "Cayman Islands"
+msgstr "Caymanöarna"
+
+#: resources/countries.php:213
+msgid "Grenada"
+msgstr "Grenada"
+
+#: resources/countries.php:212
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: resources/countries.php:211
+msgid "Saint Barthélemy"
+msgstr "Saint Barthélemy"
+
+#: resources/countries.php:210
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: resources/countries.php:209
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: resources/countries.php:208
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent och Grenadinerna"
+
+#: resources/countries.php:207
+msgid "British Virgin Islands"
+msgstr "Brittiska Jungfruöarna"
+
+#: resources/countries.php:206
+msgid "Aruba"
+msgstr "Aruba"
+
+#: resources/countries.php:205
+msgid "Turks and Caicos Islands"
+msgstr "Turks- och Caicosöarna"
+
+#: resources/countries.php:204
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: resources/countries.php:203
+msgid "Antigua and Barbuda"
+msgstr "Antigua och Barbuda"
+
+#: resources/countries.php:202
+msgid "Dominica"
+msgstr "Dominica"
+
+#: resources/countries.php:201
+msgid "St Kitts and Nevis"
+msgstr "St Kitts and Nevis"
+
+#: resources/countries.php:200
+msgid "Trinidad and Tobago"
+msgstr "Trinidad och Tobago"
+
+#: resources/countries.php:199
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: resources/countries.php:198
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: resources/countries.php:197
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: resources/countries.php:196
+msgid "Martinique"
+msgstr "Martinique"
+
+#: resources/countries.php:195
+msgid "Cuba"
+msgstr "Kuba"
+
+#: resources/countries.php:194
+msgid "Dominican Republic"
+msgstr "Dominikanska republiken"
+
+#: resources/countries.php:193
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: resources/countries.php:192
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Sydgeorgien och Sydsandwichöarna"
+
+#: resources/countries.php:191
+msgid "Falkland Islands"
+msgstr "Falklandsöarna"
+
+#: resources/countries.php:190
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: resources/countries.php:189
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: resources/countries.php:188
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: resources/countries.php:187
+msgid "Greenland"
+msgstr "Grönland"
+
+#: resources/countries.php:186
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre och Miquelon"
+
+#: resources/countries.php:185
+msgid "Suriname"
+msgstr "Suriname"
+
+#: resources/countries.php:184
+msgid "French Guiana"
+msgstr "Franska Guiana"
+
+#: resources/countries.php:183
+msgid "Guyana"
+msgstr "Guyana"
+
+#: resources/countries.php:182
+msgid "Cabo Verde"
+msgstr "Kap Verde"
+
+#: resources/countries.php:181
+msgid "Barbados"
+msgstr "Barbados"
+
+#: resources/countries.php:180
+msgid "Bouvet Island"
+msgstr "Bouvetön"
+
+#: resources/countries.php:179
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: resources/countries.php:178
+msgid "Namibia"
+msgstr "Namibia"
+
+#: resources/countries.php:177
+msgid "Angola"
+msgstr "Angola"
+
+#: resources/countries.php:176
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien och Hercegovina"
+
+#: resources/countries.php:175
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: resources/countries.php:174
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: resources/countries.php:173
+msgid "Slovenia"
+msgstr "Slovenien"
+
+#: resources/countries.php:172
+msgid "Italy"
+msgstr "Italien"
+
+#: resources/countries.php:171
+msgid "San Marino"
+msgstr "San Marino"
+
+#: resources/countries.php:170
+msgid "Vatican City"
+msgstr "Vatikanstaten"
+
+#: resources/countries.php:169
+msgid "Norway"
+msgstr "Norge"
+
+#: resources/countries.php:168
+msgid "Czechia"
+msgstr "Tjeckien"
+
+#: resources/countries.php:167
+msgid "Slovakia"
+msgstr "Slovakien"
+
+#: resources/countries.php:166
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: resources/countries.php:165
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: resources/countries.php:164
+msgid "Jersey"
+msgstr "Jersey"
+
+#: resources/countries.php:163
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: resources/countries.php:162
+msgid "Andorra"
+msgstr "Andorra"
+
+#: resources/countries.php:161
+msgid "France"
+msgstr "Frankrike"
+
+#: resources/countries.php:160
+msgid "Monaco"
+msgstr "Monaco"
+
+#: resources/countries.php:159
+msgid "Ireland"
+msgstr "Irland"
+
+#: resources/countries.php:158
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: resources/countries.php:157
+msgid "Germany"
+msgstr "Tyskland"
+
+#: resources/countries.php:156
+msgid "Belgium"
+msgstr "Belgien"
+
+#: resources/countries.php:155
+msgid "Austria"
+msgstr "Österrike"
+
+#: resources/countries.php:154
+msgid "Netherlands"
+msgstr "Nederländerna"
+
+#: resources/countries.php:153
+msgid "Sweden"
+msgstr "Sverige"
+
+#: resources/countries.php:152
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: resources/countries.php:151
+msgid "United Kingdom"
+msgstr "Storbritannien"
+
+#: resources/countries.php:150
+msgid "Iceland"
+msgstr "Island"
+
+#: resources/countries.php:149
+msgid "Denmark"
+msgstr "Danmark"
+
+#: resources/countries.php:148
+msgid "Faroe Islands"
+msgstr "Färöarna"
+
+#: resources/countries.php:147
+msgid "Algeria"
+msgstr "Algeriet"
+
+#: resources/countries.php:146
+msgid "Malta"
+msgstr "Malta"
+
+#: resources/countries.php:145
+msgid "Morocco"
+msgstr "Marocko"
+
+#: resources/countries.php:144
+msgid "Spain"
+msgstr "Spanien"
+
+#: resources/countries.php:143
+msgid "Tunisia"
+msgstr "Tunisien"
+
+#: resources/countries.php:142
+msgid "Western Sahara"
+msgstr "Västra Sahara"
+
+#: resources/countries.php:141
+msgid "Mali"
+msgstr "Mali"
+
+#: resources/countries.php:140
+msgid "Niger"
+msgstr "Niger"
+
+#: resources/countries.php:139
+msgid "Chad"
+msgstr "Chad"
+
+#: resources/countries.php:138
+msgid "Guinea"
+msgstr "Guinea"
+
+#: resources/countries.php:137
+msgid "Gambia"
+msgstr "Gambia"
+
+#: resources/countries.php:136
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: resources/countries.php:135
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé och Príncipe"
+
+#: resources/countries.php:134
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: resources/countries.php:133
+msgid "Gabon"
+msgstr "Gabon"
+
+#: resources/countries.php:132
+msgid "Benin"
+msgstr "Benin"
+
+#: resources/countries.php:131
+msgid "Mauritania"
+msgstr "Mauritanien"
+
+#: resources/countries.php:130
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: resources/countries.php:129
+msgid "Togo"
+msgstr "Togo"
+
+#: resources/countries.php:128
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: resources/countries.php:127
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: resources/countries.php:126
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+#: resources/countries.php:125
+msgid "Ghana"
+msgstr "Ghana"
+
+#: resources/countries.php:124
+msgid "Ivory Coast"
+msgstr "Elfenbenskusten"
+
+#: resources/countries.php:123
+msgid "Liberia"
+msgstr "Liberia"
+
+#: resources/countries.php:122
+msgid "Portugal"
+msgstr "Portugal"
+
+#: resources/countries.php:120
+msgid "Senegal"
+msgstr "Senegal"
+
+#: resources/countries.php:119
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: resources/countries.php:118
+msgid "Libya"
+msgstr "Libyen"
+
+#: resources/countries.php:117
+msgid "Fiji"
+msgstr "Fiji"
+
+#: resources/countries.php:116
+msgid "New Zealand"
+msgstr "Nya Zeeland"
+
+#: resources/countries.php:115
+msgid "Norfolk Island"
+msgstr "Norfolkön"
+
+#: resources/countries.php:114
+msgid "New Caledonia"
+msgstr "Nya Kaledonien"
+
+#: resources/countries.php:113
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: resources/countries.php:112
+msgid "Nauru"
+msgstr "Nauru"
+
+#: resources/countries.php:111
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: resources/countries.php:110
+msgid "Solomon Islands"
+msgstr "Salomonöarna"
+
+#: resources/countries.php:109
+msgid "Papua New Guinea"
+msgstr "Papua Nya Guinea"
+
+#: resources/countries.php:107
+msgid "Marshall Islands"
+msgstr "Marshallöarna"
+
+#: resources/countries.php:106
+msgid "Christmas Island"
+msgstr "Julön"
+
+#: resources/countries.php:105
+msgid "Australia"
+msgstr "Australien"
+
+#: resources/countries.php:104
+msgid "Mongolia"
+msgstr "Mongoliet"
+
+#: resources/countries.php:103
+msgid "Russia"
+msgstr "Ryssland"
+
+#: resources/countries.php:102
+msgid "East Timor"
+msgstr "Östtimor"
+
+#: resources/countries.php:101
+msgid "Cook Islands"
+msgstr "Cooköarna"
+
+#: resources/countries.php:100
+msgid "Singapore"
+msgstr "Singapore"
+
+#: resources/countries.php:99
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: resources/countries.php:98
+msgid "Japan"
+msgstr "Japan"
+
+#: resources/countries.php:97
+msgid "South Korea"
+msgstr "Sydkorea"
+
+#: resources/countries.php:96
+msgid "Cambodia"
+msgstr "Kambodja"
+
+#: resources/countries.php:95
+msgid "Macao"
+msgstr "Macao"
+
+#: resources/countries.php:94
+msgid "Brunei"
+msgstr "Brunei"
+
+#: resources/countries.php:93
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: resources/countries.php:92
+msgid "China"
+msgstr "Kina"
+
+#: resources/countries.php:91
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: resources/countries.php:90
+msgid "Philippines"
+msgstr "Filippinerna"
+
+#: resources/countries.php:89
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: resources/countries.php:88
+msgid "Laos"
+msgstr "Laos"
+
+#: resources/countries.php:87
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: resources/countries.php:86
+msgid "Thailand"
+msgstr "Thailand"
+
+#: resources/countries.php:85
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: resources/countries.php:84
+msgid "Palau"
+msgstr "Palau"
+
+#: resources/countries.php:82
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Island och McDonald Islands"
+
+#: resources/countries.php:81
+msgid "French Southern Territories"
+msgstr "Franska Sydterritorierna"
+
+#: resources/countries.php:80
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: resources/countries.php:79
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+#: resources/countries.php:78
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: resources/countries.php:77
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: resources/countries.php:76
+msgid "Nepal"
+msgstr "Nepal"
+
+#: resources/countries.php:74
+msgid "Maldives"
+msgstr "Maldiverna"
+
+#: resources/countries.php:73
+msgid "India"
+msgstr "Indien"
+
+#: resources/countries.php:72
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: resources/countries.php:71
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: resources/countries.php:70
+msgid "Tajikistan"
+msgstr "Tadzjikistan"
+
+#: resources/countries.php:69
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: resources/countries.php:68
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: resources/countries.php:67
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: resources/countries.php:66
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: resources/countries.php:65
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: resources/countries.php:64
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: resources/countries.php:63
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: resources/countries.php:62
+msgid "South Africa"
+msgstr "Sydafrika"
+
+#: resources/countries.php:61
+msgid "Réunion"
+msgstr "Réunion"
+
+#: resources/countries.php:60
+msgid "Eswatini"
+msgstr "Eswatini"
+
+#: resources/countries.php:59
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: resources/countries.php:58
+msgid "Botswana"
+msgstr "Botswana"
+
+#: resources/countries.php:57
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: resources/countries.php:56
+msgid "Malawi"
+msgstr "Malawi"
+
+#: resources/countries.php:55
+msgid "Comoros"
+msgstr "Komorerna"
+
+#: resources/countries.php:54
+msgid "Zambia"
+msgstr "Zambia"
+
+#: resources/countries.php:53
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: resources/countries.php:52
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: resources/countries.php:51
+msgid "Romania"
+msgstr "Rumänien"
+
+#: resources/countries.php:50
+msgid "Poland"
+msgstr "Polen"
+
+#: resources/countries.php:49
+msgid "Albania"
+msgstr "Albanien"
+
+#: resources/countries.php:48
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: resources/countries.php:47
+msgid "Hungary"
+msgstr "Ungern"
+
+#: resources/countries.php:46
+msgid "North Macedonia"
+msgstr "Nordmakedonien"
+
+#: resources/countries.php:45
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: resources/countries.php:44
+msgid "Åland"
+msgstr "Åland"
+
+#: resources/countries.php:43
+msgid "Finland"
+msgstr "Finland"
+
+#: resources/countries.php:42
+msgid "Belarus"
+msgstr "Belarus"
+
+#: resources/countries.php:41
+msgid "Moldova"
+msgstr "Moldavien"
+
+#: resources/countries.php:40
+msgid "Georgia"
+msgstr "Georgia"
+
+#: resources/countries.php:39
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard och Jan Mayen"
+
+#: resources/countries.php:38
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: resources/countries.php:37
+msgid "Azerbaijan"
+msgstr "Azerbajdzjan"
+
+#: resources/countries.php:36
+msgid "Latvia"
+msgstr "Lettland"
+
+#: resources/countries.php:35
+msgid "Estonia"
+msgstr "Estland"
+
+#: resources/countries.php:34
+msgid "Burundi"
+msgstr "Burundi"
+
+#: resources/countries.php:33
+msgid "Greece"
+msgstr "Grekland"
+
+#: resources/countries.php:32
+msgid "Sudan"
+msgstr "Sudan"
+
+#: resources/countries.php:31
+msgid "Egypt"
+msgstr "Egypten"
+
+#: resources/countries.php:30
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: resources/countries.php:29
+msgid "Ethiopia"
+msgstr "Etiopien"
+
+#: resources/countries.php:28
+msgid "Turkey"
+msgstr "Turkiet"
+
+#: resources/countries.php:27
+msgid "Israel"
+msgstr "Israel"
+
+#: resources/countries.php:26
+msgid "United Arab Emirates"
+msgstr "Förenade Arabemiraten"
+
+#: resources/countries.php:25
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: resources/countries.php:24
+msgid "Qatar"
+msgstr "Qatar"
+
+#: resources/countries.php:23
+msgid "Oman"
+msgstr "Oman"
+
+#: resources/countries.php:22
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: resources/countries.php:21
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: resources/countries.php:20
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: resources/countries.php:19
+msgid "Seychelles"
+msgstr "Seychellerna"
+
+#: resources/countries.php:18
+msgid "Central African Republic"
+msgstr "Centralafrikanska republiken"
+
+#: resources/countries.php:17
+msgid "Uganda"
+msgstr "Uganda"
+
+#: resources/countries.php:16
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: resources/countries.php:15
+msgid "DR Congo"
+msgstr "Demokratiska republiken Kongo"
+
+#: resources/countries.php:14
+msgid "Kenya"
+msgstr "Kenya"
+
+#: resources/countries.php:13
+msgid "Armenia"
+msgstr "Armenien"
+
+#: resources/countries.php:12
+msgid "Syria"
+msgstr "Syrien"
+
+#: resources/countries.php:11
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: resources/countries.php:10
+msgid "Cyprus"
+msgstr "Cypern"
+
+#: resources/countries.php:9
+msgid "Iran"
+msgstr "Iran"
+
+#: resources/countries.php:8
+msgid "Saudi Arabia"
+msgstr "Saudiarabien"
+
+#: resources/countries.php:7
+msgid "Iraq"
+msgstr "Irak"
+
+#: resources/countries.php:6
+msgid "Yemen"
+msgstr "Yemen"
+
+#: resources/countries.php:5
+msgid "Somalia"
+msgstr "Somalia"
+
+#: resources/countries.php:4
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: resources/continent.php:11 resources/countries.php:3
+msgid "Unknown"
+msgstr "Okänd"
+
+#: resources/countries.php:121
+msgid "Congo Republic"
+msgstr "Republiken Kongo"
+
+#: resources/countries.php:242
+msgid "U.S. Virgin Islands"
+msgstr "Amerikanska Jungfruöarna"
+
+#: resources/countries.php:239
+msgid "Northern Mariana Islands"
+msgstr "Nordmarianerna"
+
+#: resources/countries.php:243
+msgid "U.S. Minor Outlying Islands"
+msgstr "USA:s mindre avlägsna öar"
+
+#: resources/countries.php:75
+msgid "British Indian Ocean Territory"
+msgstr "Brittiska territoriet i Indiska oceanen"
+
+#: resources/countries.php:108
+msgid "Federated States of Micronesia"
+msgstr "Mikronesiens federerade stater"
+
+#: views/tab-settings.php:544 views/tab-settings.php:549
+msgid "Weekly Digest"
+msgstr "Veckovis sammanfattning"
+
+#: views/tab-settings.php:73
+msgid "Micro Cloud"
+msgstr "Micro Cloud"
+
+#: views/tab-logs-local.php:154 views/tab-logs-local.php:260
+#: views/tab-settings.php:296 views/tab-settings.php:405
+msgid "Try For FREE"
+msgstr "Testa GRATIS"
+
+#: views/tab-debug.php:90
+msgid "Reset"
+msgstr "Återställ"
+
+#: views/tab-debug.php:77
+msgid "Start Over"
+msgstr "Börja om"
+
+#: views/tab-dashboard.php:240
+msgid "Turn on plugin auto-updates"
+msgstr "Slå på automatiska uppdateringar av tillägget"
+
+#: views/tab-dashboard.php:71 views/tab-settings.php:99
+#: views/tab-settings.php:304 views/tab-settings.php:413
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: views/tab-help.php:55
+msgid "Software Documentation"
+msgstr "Dokumentation av mjukvara"
+
+#: views/tab-help.php:181
+msgid "Contact Support"
+msgstr "Kontakta support"
+
+#: views/onboarding-popup.php:206
+msgid "Sign Me Up"
+msgstr "Registrera mig"
+
+#: views/tab-logs-local.php:179
+msgid "Deny IPs By Country"
+msgstr "Neka IP:n efter land"
+
+#: views/tab-dashboard.php:257
+msgid "Upgrade to our premium version for advanced protection."
+msgstr "Uppgradera till vår premiumversion för avancerat skydd."
+
+#: views/tab-dashboard.php:183
+msgid "Login Security Checklist"
+msgstr "Checklista för inloggningssäkerhet"
+
+#: views/tab-dashboard.php:44
+msgid "Enable Micro Cloud (FREE)"
+msgstr "Aktivera Micro Cloud (GRATIS)"
+
+#: views/onboarding-popup.php:184
+msgid "<b>Would you like to opt-in?</b>"
+msgstr "<b>Vill du ge ditt samtycke?</b>"
+
+#: views/tab-dashboard.php:205
+msgid "Implement strong account policies"
+msgstr "Implementera starka kontopolicyer"
+
+#: views/tab-help.php:137
+msgid "How does the login firewall work?"
+msgstr "Hur fungerar brandväggen för inloggning?"
+
+#: views/onboarding-popup.php:245
+msgid "Thank you for completing the setup"
+msgstr "Tack för att du slutförde installationen"
+
+#: views/tab-logs-local.php:173
+msgid "Unblock The Blocked Admin With Ease"
+msgstr "Avblockera den blockerade administratören med lätthet"
+
+#: views/tab-dashboard.php:221
+msgid "Deny/Allow countries (Premium+ Users)"
+msgstr "Neka/tillåt länder (Premium + användare)"
+
+#: core/LimitLoginAttempts.php:326 core/LimitLoginAttempts.php:709
+msgid "Free Upgrade"
+msgstr "Gratis uppgradering"
+
+#: views/onboarding-popup.php:35 views/onboarding-popup.php:60
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: views/onboarding-popup.php:70
+msgid "Activate"
+msgstr "Aktivera"
+
+#: views/onboarding-popup.php:122 views/onboarding-popup.php:162
+#: views/onboarding-popup.php:227
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: views/micro-cloud-modal.php:95 views/onboarding-popup.php:253
+msgid "Go To Dashboard"
+msgstr "Gå till adminpanelen"
+
+#: views/micro-cloud-modal.php:90
+msgid "Micro Cloud has been activated!"
+msgstr "Micro Cloud har aktiverats!"
+
+#: views/micro-cloud-modal.php:82 views/onboarding-popup.php:223
+msgid "The server is not working, try again later"
+msgstr "Servern fungerar inte, försök igen senare"
+
+#: views/onboarding-popup.php:53
+msgid "Completion"
+msgstr "Slutförande"
+
+#: views/onboarding-popup.php:47
+msgid "Limited Upgrade"
+msgstr "Begränsad uppgradering"
+
+#: views/onboarding-popup.php:137
+msgid "Notification Settings"
+msgstr "Aviseringsinställningar"
+
+#: views/onboarding-popup.php:176
+msgid "Limited Upgrade (Free)"
+msgstr "Begränsad uppgradering (gratis)"
+
+#: views/onboarding-popup.php:68
+msgid "Your Setup Code"
+msgstr "Din inställningskod"
+
+#: views/onboarding-popup.php:65
+msgid "Add your Setup Code"
+msgstr "Lägg till din inställningskod"
+
+#: views/micro-cloud-modal.php:53 views/onboarding-popup.php:142
+#: views/onboarding-popup.php:190 views/tab-settings.php:559
+#: views/tab-settings.php:583
+msgid "Your email"
+msgstr "Din e-post"
+
+#: views/onboarding-popup.php:84
+msgid "Not A Premium User?"
+msgstr "Inte en premiumanvändare?"
+
+#: views/onboarding-popup.php:113
+msgid "Yes, show me plan options"
+msgstr "Ja, visa mig paketalternativen"
+
+#: views/emails/failed-login.php:295
+msgid "Micro Cloud©."
+msgstr "Micro Cloud©."
+
+#: views/micro-cloud-modal.php:43
+msgid "How To Activate Micro Cloud"
+msgstr "Så här aktiverar du Micro Cloud"
+
+#: views/micro-cloud-modal.php:26
+msgid "Get Started with Micro Cloud for FREE"
+msgstr "Kom igång med Micro Cloud GRATIS"
+
+#: views/onboarding-popup.php:116
+msgid "No, I don’t want advanced protection"
+msgstr "Nej, jag vill inte ha avancerat skydd"
+
+#: core/LimitLoginAttempts.php:789
+msgid "LLAR"
+msgstr "LLAR"
+
+#: views/tab-logs-local.php:240
+msgid "Unlock"
+msgstr "Lås upp"
+
+#: views/tab-logs-local.php:243
+msgid "Unlocked"
+msgstr "Upplåst"
+
+#: views/tab-logs-local.php:231
+msgid " lockouts"
+msgstr " utlåsningar"
+
+#: views/tab-settings.php:620
+msgid "Display left menu item"
+msgstr "Visa vänster menyval"
+
+#: views/tab-settings.php:615 views/tab-settings.php:632
+#: views/tab-settings.php:663
+msgid "(Save and reload this page to see the changes)"
+msgstr "(Spara och ladda om den här sidan för att se ändringarna)"
+
+#: views/tab-logs-local.php:226
+msgid "F d, Y H:i"
+msgstr "Y-m-d H:i"
+
+#: views/tab-settings.php:603
+msgid "Display top menu item"
+msgstr "Visa det översta menyvalet"
+
+#: views/tab-settings.php:770
+msgid "Test email has been sent!"
+msgstr "Testmeddelandet har skickats!"
+
+#: core/LimitLoginAttempts.php:686 resources/compare-plans-data.php:64
+#: views/options-page.php:139
+msgid "Login Firewall"
+msgstr "Brandvägg för inloggning"
+
+#: views/tab-logs-local.php:111
+msgid "Denylist"
+msgstr "Nekadlista"
+
+#: core/Ajax.php:1180
+msgid "Wrong email format."
+msgstr "Fel e-postformat."
+
+#: views/tab-settings.php:179
+msgid "Lockout time in minutes."
+msgstr "Utlåsningstid i minuter."
+
+#: views/tab-settings.php:588
+msgid "Test Email Notifications"
+msgstr "Testa e-postaviseringar"
+
+#: views/tab-settings.php:166
+msgid "Number of failed attempts allowed before locking out."
+msgstr "Antal misslyckade försök som tillåts innan utlåsning."
+
+#: views/tab-settings.php:208
+msgid "Time in hours before blocks are removed."
+msgstr "Tid i timmar innan blockeringar tas bort."
+
+#: views/chart-circle-failed-attempts-today.php:120
+msgid "Cloud protection enabled"
+msgstr "Molnskydd aktiverat"
+
+#: views/emails/failed-login.php:348
+msgid "from these notifications."
+msgstr "från dessa aviseringar."
+
+#: views/emails/failed-login.php:347
+msgid "Unsubscribe"
+msgstr "Avsluta prenumeration"
+
+#: views/emails/failed-login.php:310
+msgid "Why am I getting these emails?"
+msgstr "Varför får jag dessa e-postmeddelanden?"
+
+#: views/emails/failed-login.php:305
+msgid "Frequently Asked Questions"
+msgstr "Vanliga frågor"
+
+#: views/emails/failed-login.php:276
+msgid "Go to Dashboard"
+msgstr "Gå till adminpanelen"
+
+#: views/emails/failed-login.php:244
+msgid "Hello,"
+msgstr "Hej,"
+
+#: views/emails/failed-login.php:243
+msgid "Hello {name},"
+msgstr "Hej {name},"
+
+#: views/emails/failed-login.php:307
+msgid "What is a failed login attempt?"
+msgstr "Vad är ett misslyckat inloggningsförsök?"
+
+#: views/emails/failed-login.php:313
+msgid "How dangerous is this failed login attempt?"
+msgstr "Hur farligt är detta misslyckade inloggningsförsök?"
+
+#: views/emails/failed-login.php:250
+msgid "The failed login details include:"
+msgstr "De misslyckade inloggningsdetaljerna inkluderar:"
+
+#: views/emails/failed-login.php:256
+msgid "Last user attempted: <b>{username}</b>"
+msgstr "Senaste användarförsöket: <b>{username}</b>"
+
+#: views/emails/failed-login.php:248
+msgid "This is installed on your <b>{domain}</b> WordPress site."
+msgstr "Detta är installerat på din WordPress-webbplats <b>{domain}</b>."
+
+#: views/emails/failed-login.php:317
+msgid "Limit Login Attempts Reloaded website"
+msgstr "”Limit Login Attempts Reloaded” webbplats"
+
+#: views/emails/failed-login.php:258
+msgid "IP was blocked for {blocked_duration}"
+msgstr "IP blockerat i {blocked_duration}"
+
+#: views/chart-circle-failed-attempts-today.php:46
+#: views/chart-circle-failed-attempts-today.php:80
+msgid "(past 24 hrs)"
+msgstr "(senaste 24 timmarna)"
+
+#: views/chart-circle-failed-attempts-today.php:40
+#: views/chart-circle-failed-attempts-today.php:75
+msgid "Hooray! Zero failed login attempts (past 24 hrs)"
+msgstr "Hurra! Inga misslyckade inloggningsförsök (senaste 24 timmarna)"
+
+#: views/chart-circle-failed-attempts-today.php:51
+msgid "Warning: Your site has experienced over 100 failed login attempts in the past 24 hours"
+msgstr "Varning: Din webbplats har haft över 100 misslyckade inloggningsförsök under de senaste 24 timmarna"
+
+#: core/LimitLoginAttempts.php:1770
+msgid "The %s IP range is invalid"
+msgstr "IP-intervallet %s är ogiltigt"
+
+#: views/tab-settings.php:289 views/tab-settings.php:451
+msgid "No contract - cancel anytime"
+msgstr "Inget kontrakt – avbryt när som helst"
+
+#: resources/compare-plans-data.php:27
+msgid "Installed"
+msgstr "Installerad"
+
+#: core/LimitLoginAttempts.php:709
+msgid "Premium"
+msgstr "Premium"
+
+#: views/tab-premium.php:95
+msgid "Features comparison"
+msgstr "Funktionsjämförelse"
+
+#: views/tab-premium.php:61
+msgid "Get It Here"
+msgstr "Skaffa det här"
+
+#: views/tab-premium.php:53
+msgid "Support"
+msgstr "Support"
+
+#: views/tab-help.php:42
+msgid "Go To Support Forums"
+msgstr "Gå till supportforum"
+
+#: views/tab-help.php:34
+msgid "Free Support"
+msgstr "Gratis support"
+
+#: views/tab-debug.php:70
+msgid "Version"
+msgstr "Version"
+
+#: views/chart-failed-attempts.php:227
+msgid "Attempts"
+msgstr "Försök"
+
+#: views/options-page.php:159
+msgid "Premium / Extensions"
+msgstr "Premium/utökningar"
+
+#: resources/compare-plans-data.php:120
+msgid "Intelligent IP Blocking"
+msgstr "Intelligent IP-blockering"
+
+#: resources/compare-plans-data.php:89
+msgid "Disable IPs from any region to disable logins."
+msgstr "Inaktivera IP:n från valfri region för att inaktivera inloggningar."
+
+#: resources/compare-plans-data.php:88
+msgid "Block By Country"
+msgstr "Blockera efter land"
+
+#: views/tab-premium.php:85
+msgid "Why Should I Consider Premium?"
+msgstr "Varför ska jag överväga Premium?"
+
+#: views/tab-help.php:161
+msgid "What URLs are being attacked and protected?"
+msgstr "Vilka URL-er attackeras och skyddas?"
+
+#: views/tab-premium.php:32
+msgid "Limit Login Attempts Reloaded <strong>Premium</strong>"
+msgstr "Limit Login Attempts Reloaded <strong>Premium</strong>"
+
+#: views/tab-help.php:149
+msgid "What do I do if all users get blocked?"
+msgstr "Vad gör jag om alla användare blir blockerade?"
+
+#: views/tab-help.php:131
+msgid "Could these failed login attempts be fake?"
+msgstr "Kan dessa misslyckade inloggningsförsök vara falska?"
+
+#: views/tab-help.php:125
+msgid "Why am I still seeing login attempts even after the IP got blocked?"
+msgstr "Varför ser jag fortfarande inloggningsförsök även efter att IP har blockerats?"
+
+#: views/tab-help.php:119
+msgid "What do I do if the admin gets blocked?"
+msgstr "Vad gör jag om administratören blir blockerad?"
+
+#: views/tab-help.php:107
+msgid "How do I know if I'm under attack?"
+msgstr "Hur vet jag om jag är under attack?"
+
+#: views/tab-help.php:83
+msgid "Accounts & Billing"
+msgstr "Konton och fakturering"
+
+#: views/tab-help.php:76
+msgid "Technical Questions"
+msgstr "Tekniska frågor"
+
+#: views/tab-help.php:68
+msgid "Cloud Service & Security"
+msgstr "Molntjänst och säkerhet"
+
+#: views/tab-help.php:62
+msgid "All Documentation"
+msgstr "All dokumentation"
+
+#: views/tab-help.php:51
+msgid "GDPR Information"
+msgstr "GDPR-information"
+
+#: views/tab-help.php:20
+msgid "Upgrade Now to Access Premium Support"
+msgstr "Uppgradera nu för åtkomst till premium-support"
+
+#: views/options-page.php:88
+msgid "Yes, enable auto-update"
+msgstr "Ja, aktivera automatisk uppdatering"
+
+#: views/options-page.php:86
+msgid "Do you want Limit Login Attempts Reloaded to provide the latest version automatically?"
+msgstr "Vill du att Limit Login Attempts Reloaded ska tillhandahålla den senaste versionen automatiskt?"
+
+#: views/app-widgets/event-log.php:54 views/app-widgets/login-attempts.php:61
+msgid "Load older events"
+msgstr "Laddar äldre händelser"
+
+#: resources/compare-plans-data.php:105
+msgid "Automatically add malicious IPs to your blocklist when triggered by the system."
+msgstr "Lägg automatiskt till skadliga IP-adresser till din blockeringslista när det utlöses av systemet."
+
+#: views/tab-premium.php:68
+msgid "You are currently using the free version of <strong>Limit Login Attempts Reloaded</strong>."
+msgstr "Du använder för närvarande gratisversionen av <strong>Limit Login Attempts Reloaded</strong>."
+
+#: views/tab-help.php:155
+msgid "I just installed LLAR and I'm already getting several failed login attempts"
+msgstr "Jag har precis installerat LLAR och jag får redan flera misslyckade inloggningsförsök"
+
+#: views/tab-help.php:101
+msgid "Top Topics and Questions"
+msgstr "Toppämnen och frågor"
+
+#: views/tab-help.php:78
+msgid "Popular technical questions about the service including admin blocking, definitions, and email notifications."
+msgstr "Populära tekniska frågor om tjänsten inklusive adminblockering, definitioner och e-postaviseringar."
+
+#: resources/compare-plans-data.php:78
+msgid "300k requests per month"
+msgstr "300 000 förfrågningar per månad"
+
+#: resources/compare-plans-data.php:77
+msgid "200k requests per month"
+msgstr "200 000 förfrågningar per månad"
+
+#: resources/compare-plans-data.php:76
+msgid "100k requests per month"
+msgstr "100 000 förfrågningar per månad"
+
+#: views/tab-help.php:113
+msgid "How can I tell that the premium plugin is working?"
+msgstr "Hur vet jag att premiumtillägget fungerar?"
+
+#: views/tab-premium.php:38
+msgid "Full feature list"
+msgstr "Hela listan med funktioner"
+
+#: resources/compare-plans-data.php:50
+msgid "Limit Number of Retry Attempts"
+msgstr "Begränsa antalet omförsök"
+
+#: views/chart-circle-failed-attempts-today.php:47
+#: views/chart-circle-failed-attempts-today.php:81
+msgid "Your site is currently at a low risk for brute force activity"
+msgstr "Din webbplats löper för närvarande låg risk att utsättas för ”brute force”-aktivitet"
+
+#: views/tab-premium.php:43
+msgid "Pre-sales FAQs"
+msgstr "Vanliga frågor före försäljning"
+
+#: views/tab-help.php:91
+msgid "Pre-sales Questions"
+msgstr "Frågor före försäljning"
+
+#: views/tab-premium.php:48
+msgid "Ask a pre-sales question"
+msgstr "Ställ en fråga före köp"
+
+#: views/micro-cloud-modal.php:68 views/onboarding-popup.php:158
+#: views/onboarding-popup.php:230
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: views/options-page.php:92
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: views/tab-help.php:28
+msgid "Upgrade To Premium"
+msgstr "Uppgradera till Premium"
+
+#: views/tab-logs-custom.php:36
+msgid "Or"
+msgstr "Eller"
+
+#: views/app-widgets/active-lockouts.php:13
+msgid "Reload"
+msgstr "Ladda om"
+
+#: views/tab-settings.php:327
+msgid "Edit"
+msgstr "Redigera"
+
+#: views/tab-settings.php:300 views/tab-settings.php:409
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: views/app-widgets/acl-rules.php:14 views/app-widgets/acl-rules.php:63
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#. Description of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "Block excessive login attempts and protect your site against brute force attacks. Simple, yet powerful tools to improve site performance."
+msgstr "Blockera omfattande inloggningsförsök och skydda din webbplats mot ”brute force”-attacker. Enkla men ändå kraftfulla verktyg som kan förbättra webbplatsens prestanda."
+
+#: views/tab-settings.php:636
+msgid "Hide Dashboard Widget"
+msgstr "Dölj widget i adminpanel"
+
+#: views/app-widgets/event-log.php:19
+msgid "Full Logs"
+msgstr "Fullständiga loggar"
+
+#: views/app-widgets/event-log.php:24
+msgid "All attempts blocked by access rules are hidden by default. You can see the full log at this link."
+msgstr "Alla försök som blockeras av åtkomstregler är dolda som standard. Du kan se hela loggen på den här länken."
+
+#: views/tab-settings.php:537
+msgid "You can use a shortcode here to insert links, for example, a link to your Privacy Policy page. <br>The shortcode is: [llar-link url=\"https://example.com\" text=\"Privacy Policy\"]"
+msgstr "Du kan använda en kortkod här för att infoga länkar, till exempel en länk till din integritetspolicysida. <br>Kortkoden är: [llar-link url=\"https://example.com\" text=\"Integritetspolicy\"]"
+
+#: views/app-widgets/country-access-rules.php:21
+msgid "these countries:"
+msgstr "dessa länder:"
+
+#: views/app-widgets/country-access-rules.php:14
+msgid "Country Access Rules"
+msgstr "Åtkomstregler för länder"
+
+#: views/tab-settings.php:522
+msgid "GDPR message"
+msgstr "GDPR-meddelande"
+
+#: core/Config.php:96
+msgid "By proceeding you understand and give your consent that your IP address and browser information might be processed by the security plugins installed on this site."
+msgstr "Genom att fortsätta förstår du och ger ditt samtycke till att din IP-adress och information om din webbläsare kan komma att bearbetas av de säkerhetstillägg som är installerade på denna webbplats."
+
+#: views/chart-circle-failed-attempts-today.php:102
+#: views/chart-failed-attempts.php:36 views/chart-failed-attempts.php:121
+#: views/chart-failed-attempts.php:131
+msgid "Failed Login Attempts"
+msgstr "Misslyckade inloggningsförsök"
+
+#: views/chart-circle-failed-attempts-today.php:93
+msgid "Failed Login Attempts Today"
+msgstr "Misslyckade inloggningsförsök idag"
+
+#: views/tab-dashboard.php:143
+msgid "Global Options"
+msgstr "Globala alternativ"
+
+#: core/LimitLoginAttempts.php:701 views/options-page.php:155
+#: views/tab-dashboard.php:128
+msgid "Help"
+msgstr "Hjälp"
+
+#: views/tab-dashboard.php:113
+msgid "Tools"
+msgstr "Verktyg"
+
+#: views/tab-dashboard.php:67 views/tab-settings.php:95
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: views/onboarding-popup.php:41
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: core/LimitLoginAttempts.php:333 views/tab-dashboard.php:97
+#: views/tab-dashboard.php:253
+msgid "Upgrade to Premium"
+msgstr "Uppgradera till Premium"
+
+#: views/tab-dashboard.php:83
+msgid "Premium Protection Disabled"
+msgstr "Premiumskydd inaktiverat"
+
+#: views/tab-dashboard.php:132
+msgid "Find the documentation and help you need."
+msgstr "Hitta den dokumentation och hjälp du behöver."
+
+#: views/tab-dashboard.php:147
+msgid "Many options such as notifications, alerts, premium status, and more."
+msgstr "Många inställningar, såsom aviseringar, varningar, premiumstatus med mera."
+
+#: views/tab-dashboard.php:117
+msgid "View lockouts logs, block or whitelist usernames or IPs, and more."
+msgstr "Visa loggar över blockeringar, blockera eller vitlista användarnamn, IP-adresser med mera."
+
+#: resources/compare-plans-data.php:35
+msgid "Upgrade now"
+msgstr "Uppgradera nu"
+
+#: resources/compare-plans-data.php:72
+msgid "Performance Optimizer"
+msgstr "Prestandaoptimerare"
+
+#: views/tab-logs-local.php:88
+msgid "Safelist"
+msgstr "Lista av betrodda adresser"
+
+#: views/chart-failed-attempts.php:44 views/chart-failed-attempts.php:147
+#: views/chart-failed-attempts.php:244
+msgid "Requests"
+msgstr "Förfrågningar"
+
+#: views/app-widgets/active-lockouts.php:8
+msgid "Active Lockouts"
+msgstr "Aktiva utlåsningar"
+
+#: views/tab-settings.php:314
+msgid "Setup Code"
+msgstr "Konfigurationskod"
+
+#: views/chart-circle-failed-attempts-today.php:45
+#: views/chart-circle-failed-attempts-today.php:79
+msgid "%d failed login attempt "
+msgid_plural "%d failed login attempts "
+msgstr[0] "%d misslyckat inloggningsförsök "
+msgstr[1] "%d misslyckade inloggningsförsök "
+
+#: core/LimitLoginAttempts.php:2123
+msgid "Don't show this message again"
+msgstr "Visa inte detta meddelande igen"
+
+#: resources/compare-plans-data.php:136 views/tab-help.php:173
+msgid "Premium Support"
+msgstr "Premiumsupport"
+
+#: core/LimitLoginAttempts.php:2122
+msgid "Remind me a month from now"
+msgstr "Påminn mig om en månad från nu"
+
+#: core/LimitLoginAttempts.php:2121
+msgid "Yes, turn on email notifications"
+msgstr "Ja, slå på e-postaviseringar"
+
+#: core/LimitLoginAttempts.php:2116
+msgid "You have been upgraded to the latest version of <strong>Limit Login Attempts Reloaded</strong>.<br> Due to increased security threats around the holidays, we recommend turning on email notifications when you receive a failed login attempt."
+msgstr "Du har uppdaterat till den senaste versionen av <strong>Limit Login Attempts Reloaded</strong>.<br>På grund av ökade säkerhetshot runt helgdagar rekommenderar vi att du aktiverar e-postaviseringar om misslyckade inloggningsförsök."
+
+#: views/emails/failed-login.php:246
+msgid "This notification was sent automatically via Limit Login Attempts Reloaded Plugin."
+msgstr "Denna avisering skickades automatiskt via tillägget Limit Login Attempts Reloaded."
+
+#: core/LimitLoginAttempts.php:691 views/options-page.php:145
+msgid "Logs"
+msgstr "Loggar"
+
+#: views/tab-settings.php:348
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: views/tab-settings.php:275 views/tab-settings.php:439
+msgid "Get premium support"
+msgstr "Skaffa premiumsupport"
+
+#: views/tab-settings.php:336
+msgid "Submit"
+msgstr "Skicka"
+
+#: views/tab-settings.php:310
+msgid "Custom App"
+msgstr "Anpassa app"
+
+#: views/tab-settings.php:64
+msgid "App Settings"
+msgstr "Appinställningar"
+
+#: views/tab-settings.php:107
+msgid "Active App"
+msgstr "Aktiv app"
+
+#: core/Ajax.php:811
+msgid "No rules yet."
+msgstr "Inga regler ännu."
+
+#: views/app-widgets/acl-rules.php:44 views/app-widgets/acl-rules.php:93
+#: views/app-widgets/country-access-rules.php:25
+msgid "Add"
+msgstr "Lägg till"
+
+#: views/app-widgets/acl-rules.php:38 views/app-widgets/acl-rules.php:87
+msgid "Allow"
+msgstr "Tillåt"
+
+#: views/app-widgets/acl-rules.php:37 views/app-widgets/acl-rules.php:86
+#: views/app-widgets/country-access-rules.php:54
+msgid "Deny"
+msgstr "Neka"
+
+#: views/app-widgets/acl-rules.php:26 views/app-widgets/acl-rules.php:75
+msgid "Action"
+msgstr "Åtgärd"
+
+#: views/app-widgets/event-log.php:46
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: views/app-widgets/acl-rules.php:24 views/app-widgets/acl-rules.php:33
+#: views/app-widgets/acl-rules.php:73 views/app-widgets/acl-rules.php:82
+#: views/app-widgets/event-log.php:43
+msgid "Pattern"
+msgstr "Mönster"
+
+#: views/app-widgets/event-log.php:42
+msgid "Reason"
+msgstr "Orsak"
+
+#: views/app-widgets/acl-rules.php:25 views/app-widgets/acl-rules.php:74
+#: views/app-widgets/event-log.php:41
+msgid "Rule"
+msgstr "Regel"
+
+#: views/app-widgets/active-lockouts.php:23 views/app-widgets/event-log.php:40
+#: views/app-widgets/login-attempts.php:50
+msgid "Login"
+msgstr "Logga in"
+
+#: views/app-widgets/active-lockouts.php:22 views/app-widgets/event-log.php:38
+#: views/app-widgets/login-attempts.php:51
+msgid "IP"
+msgstr "IP"
+
+#: views/app-widgets/event-log.php:37 views/app-widgets/login-attempts.php:49
+msgid "Time"
+msgstr "Tid"
+
+#: views/app-widgets/active-lockouts.php:24
+msgid "Count"
+msgstr "Antal"
+
+#: views/app-widgets/event-log.php:44
+msgid "Attempts Left"
+msgstr "Försök kvar"
+
+#: core/Ajax.php:740
+msgid "No lockouts yet."
+msgstr "Inga blockeringar än."
+
+#: views/app-widgets/event-log.php:45
+msgid "Lockout Duration"
+msgstr "Blockeringens varaktighet"
+
+#: views/tab-settings.php:143
+msgid "Local App"
+msgstr "Lokal app"
+
+#: views/app-widgets/event-log.php:14
+msgid "Event Log"
+msgstr "Händelselogg"
+
+#: views/app-widgets/active-lockouts.php:25
+msgid "Expires in (minutes)"
+msgstr "Löper ut om (minuter)"
+
+#: core/Ajax.php:385 core/Ajax.php:688
+msgid "No events yet."
+msgstr "Inga händelser än."
+
+#: core/CloudApp.php:157
+msgid "The app has been successfully imported."
+msgstr "Appen har importerats."
+
+#: views/app-widgets/acl-rules.php:39 views/app-widgets/acl-rules.php:88
+msgid "Pass"
+msgstr "Godkänn"
+
+#: views/tab-settings.php:249 views/tab-settings.php:401
+msgid "Why Use Our Premium Cloud App?"
+msgstr "Varför använda vår Premium Cloud-app?"
+
+#: core/Ajax.php:757
+msgid "Meanwhile, the app falls over to the <a href=\"%s\">default functionality</a>."
+msgstr "Samtidigt använder appen <a href=\"%s\">standardfunktionen</a>."
+
+#: core/CloudApp.php:132
+msgid "The endpoint is not responding. Please contact your app provider to settle that."
+msgstr "Ändpunkten svarar inte. Kontakta din app-leverantör för att lösa problemet."
+
+#: views/app-widgets/acl-rules.php:10
+msgid "Login Access Rules"
+msgstr "Regler för åtkomst till inloggning"
+
+#: views/app-widgets/acl-rules.php:59
+msgid "IP Access Rules"
+msgstr "Åtkomstregler för IP-adresser"
+
+#: core/Ajax.php:189
+msgid "Please specify the Setup Code"
+msgstr "Ange konfigurationskoden"
+
+#. Author URI of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "https://www.limitloginattempts.com/"
+msgstr "https://www.limitloginattempts.com/"
+
+#: views/tab-settings.php:255 views/tab-settings.php:421
+msgid "Absorb site load caused by attacks"
+msgstr "Absorbera belastning på webbplatsen orsakad av attacker"
+
+#: views/tab-settings.php:282 views/tab-settings.php:445
+msgid "Run auto backups of access control lists, lockouts and logs"
+msgstr "Kör automatiska säkerhetskopior av åtkomstkontrollistor, blockeringar och loggar"
+
+#: views/options-page.php:164
+msgid "Failover"
+msgstr "Redundans"
+
+#: core/LimitLoginAttempts.php:315 core/LimitLoginAttempts.php:675
+#: views/options-page.php:129
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: views/tab-logs-local.php:142 views/tab-settings.php:464
+#: views/tab-settings.php:783
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: views/tab-settings.php:470
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: core/LimitLoginAttempts.php:1797 core/LimitLoginAttempts.php:1870
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+#: core/LimitLoginAttempts.php:2030
+msgid "Leave a review"
+msgstr "Lämna en recension"
+
+#: core/LimitLoginAttempts.php:2029
+msgid "Maybe later"
+msgstr "Kanske senare"
+
+#: core/LimitLoginAttempts.php:2028
+msgid "Don't show again"
+msgstr "Visa inte igen"
+
+#: core/LimitLoginAttempts.php:2023
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "Hej <strong>Limit Login Attempts Reloaded</strong>-användare!"
+
+#: core/LimitLoginAttempts.php:2025
+msgid "We would really like to hear your feedback about the plugin! Please take a couple minutes to write a few words <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">here</a>. Thank you!"
+msgstr "Vi skulle verkligen uppskatta att höra din feedback om tillägget! Avvara några minuter att skriva några ord <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">här</a>. Tack!"
+
+#: views/tab-debug.php:65
+msgid "Copy the contents of the window and provide to support."
+msgstr "Kopiera innehållet i fönstret och delge det till support."
+
+#: core/LimitLoginAttempts.php:696 views/options-page.php:151
+msgid "Debug"
+msgstr "Felsök"
+
+#: core/LimitLoginAttempts.php:316 core/LimitLoginAttempts.php:680
+#: views/options-page.php:133
+msgid "Settings"
+msgstr "Inställningar"
+
+#: views/tab-debug.php:58
+msgid "Debug Info"
+msgstr "Felsökningsinformation"
+
+#: views/tab-settings.php:240
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr "Ange källorna du litar på i prioritetsordning, separerade med kommatecken. Vi rekommenderar starkt att du <b>inte</b> använder något annat än REMOTE_ADDR eftersom andra källor lätt kan förfalskas. Exempelvis HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP "
+
+#: views/tab-settings.php:225
+msgid "Trusted IP Origins"
+msgstr "Betrodda IP-källor"
+
+#: views/tab-settings.php:583
+msgid "after"
+msgstr "efter"
+
+#: views/tab-settings.php:556 views/tab-settings.php:580
+msgid "Email to"
+msgstr "E-post till"
+
+#: core/LimitLoginAttempts.php:1505
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>FEL</strong>: Felaktig e-postadress eller lösenord."
+
+#: views/tab-settings.php:511
+msgid "GDPR compliance"
+msgstr "GDPR-kompatibelt"
+
+#: views/tab-logs-local.php:93 views/tab-logs-local.php:116
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Ett IP eller IP-omfång (1.2.3.4-5.6.7.8) per rad"
+
+#: core/LimitLoginAttempts.php:1176
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d timme"
+msgstr[1] "%d timmar"
+
+#: core/LimitLoginAttempts.php:1183
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minut"
+msgstr[1] "%d minuter"
+
+#: views/tab-logs-local.php:35
+msgid "Statistics"
+msgstr "Statistik"
+
+#: views/tab-logs-local.php:45
+msgid "Total lockouts"
+msgstr "Antal blockeringar"
+
+#: views/tab-logs-local.php:64
+msgid "Active lockouts"
+msgstr "Aktiva blockeringar"
+
+#: views/tab-settings.php:147
+msgid "Lockout"
+msgstr "Blockering"
+
+#: views/tab-settings.php:174
+msgid "minutes lockout"
+msgstr "minuters blockering"
+
+#: views/tab-settings.php:190
+msgid "hours"
+msgstr "timmar"
+
+#: views/tab-settings.php:568
+msgid "Notify on lockout"
+msgstr "Notifiera om blockering"
+
+#: views/tab-settings.php:586
+msgid "lockouts"
+msgstr "blockeringar"
+
+#: views/tab-logs-local.php:218
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: limit-login-attempts-reloaded.php core/LimitLoginAttempts.php:152
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/app-widgets/event-log.php:39 views/tab-logs-local.php:220
+msgid "Gateway"
+msgstr "Gateway"
+
+#: views/tab-logs-local.php:219
+msgid "Tried to log in as"
+msgstr "Försökte logga in som"
+
+#: views/tab-logs-local.php:217
+msgid "Date"
+msgstr "Datum"
+
+#: views/tab-logs-local.php:101 views/tab-logs-local.php:124
+msgid "One Username per line"
+msgstr "Ett användarnamn per rad"
+
+#: views/tab-logs-local.php:194
+msgid "Lockout log"
+msgstr "Blockeringslogg"
+
+#: views/tab-settings.php:203
+msgid "hours until retries are reset"
+msgstr "timmar tills omförsök återställs"
+
+#: views/tab-settings.php:487
+msgid "Use global settings"
+msgstr "Använd globala inställningar"
+
+#: views/tab-settings.php:482
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Om inaktiverad kommer de globala inställningarna tillämpas på hela nätverket."
+
+#: views/tab-settings.php:481
+msgid "Let network sites use their own settings"
+msgstr "Låt andra nätverkswebbplatser använda sina egna inställningar"
+
+#: views/tab-logs-local.php:71
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP blockeras för närvarande från att loggas in"
+
+#: views/tab-logs-local.php:68
+msgid "Restore Lockouts"
+msgstr "Återställ blockeringar"
+
+#: views/tab-logs-local.php:57
+msgid "No lockouts yet"
+msgstr "Inga blockeringar ännu"
+
+#: views/tab-logs-local.php:53
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d blockering sedan senaste återställningen"
+msgstr[1] "%d blockeringar sedan senaste återställningen"
+
+#: core/LimitLoginAttempts.php:1725
+msgid "Cleared current lockouts"
+msgstr "Rensade aktuella blockeringar"
+
+#: core/LimitLoginAttempts.php:1718
+msgid "Reset lockout count"
+msgstr "Nollställ räknaren för blockeringar"
+
+#: core/LimitLoginAttempts.php:1711
+msgid "Cleared IP log"
+msgstr "Rensade IP-loggen"
+
+#: core/LimitLoginAttempts.php:1524
+msgid "WC Error"
+msgstr "WC-fel"
+
+#: core/LimitLoginAttempts.php:1508
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>Fel</strong>: Felaktigt användarnamn eller lösenord."
+
+#: core/LimitLoginAttempts.php:474 core/LimitLoginAttempts.php:983
+#: core/LimitLoginAttempts.php:1451
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>FEL</strong>: För många misslyckade inloggningsförsök."
+
+#: core/Ajax.php:1038
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "<strong>%d</strong> försök återstår."
+msgstr[1] "<strong>%d</strong> försök återstår."
+
+#: views/tab-logs-local.php:202
+msgid "Clear Log"
+msgstr "Rensa logg"
+
+#: views/tab-settings.php:186
+msgid "lockouts increase lockout time to"
+msgstr "blockeringar ökar blockeringstiden till"
+
+#: views/tab-logs-local.php:50
+msgid "Reset Counter"
+msgstr "Nollställ räknare"
+
+#: views/tab-settings.php:161
+msgid "allowed retries"
+msgstr "tillåtna omförsök"
+
+#: core/LimitLoginAttempts.php:483 core/LimitLoginAttempts.php:992
+#: core/LimitLoginAttempts.php:1471
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Försök igen om %d minut."
+msgstr[1] "Försök igen om %d minuter."
+
+#: core/LimitLoginAttempts.php:481 core/LimitLoginAttempts.php:990
+#: core/LimitLoginAttempts.php:1468
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Försök igen om %d timme."
+msgstr[1] "Försök igen om %d timmar."
+
+#: core/LimitLoginAttempts.php:1459
+msgid "Please try again later."
+msgstr "Försök igen senare."

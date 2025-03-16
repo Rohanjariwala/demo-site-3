@@ -1,0 +1,7 @@
+[13-Feb-2023 13:38:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Scheme_Typography' not found in /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/jet-smart-filters/includes/widgets/base.php:316
+Stack trace:
+#0 /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/jet-smart-filters/includes/widgets/base.php(200): Elementor\Jet_Smart_Filters_Base_Widget->base_controls_section_filter_apply_button(Array)
+#1 /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/elementor/includes/base/controls-stack.php(2327): Elementor\Jet_Smart_Filters_Base_Widget->_register_controls()
+#2 /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/elementor/includes/base/controls-stack.php(496): Elementor\Controls_Stack->init_controls()
+#3 /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/elementor/includes/base/widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#4 /home/ in /home/u546759352/domains/projectwebtec1.com/public_html/n89tonvsfal7ad/wp-content/plugins/jet-smart-filters/includes/widgets/base.php on line 316
