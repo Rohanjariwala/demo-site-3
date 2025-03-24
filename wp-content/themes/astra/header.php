@@ -30,21 +30,7 @@ if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 ?>
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
-<script src="https://unpkg.com/lenis@1.1.21/dist/lenis.min.js"></script> 
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/ScrollTrigger.min.js"></script>
-<script>
 
-const lenis = new Lenis();
-lenis.on('scroll', ScrollTrigger.update);
-
-gsap.ticker.add((time)
- => {
-  lenis.raf(time * 1000); // Convert time from seconds to milliseconds
-});
-
-gsap.ticker.lagSmoothing(0);
-</script>
 </head>
 
 <body <?php astra_schema_body(); ?> <?php body_class(); ?>>
